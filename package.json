@@ -1,0 +1,16 @@
+{
+    "name": "po",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.0.2",
+        "bootstrap-icons": "^1.5.0"
+    }
+}
